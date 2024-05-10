@@ -137,7 +137,7 @@ def mc_control (env,n_bins=g_bins, gamma = 1.0,
 ![image](https://github.com/ManojTella/rl-cartpole/assets/94883876/788c6b21-40b8-4d36-99c4-69353839aa7d)
 ![image](https://github.com/ManojTella/rl-cartpole/assets/94883876/0151afa0-2b0a-4127-a7bd-51d5d7757cce)
 ![image](https://github.com/ManojTella/rl-cartpole/assets/94883876/d3032542-99d2-4ad7-829f-0d8bf979d234)
-![image](https://github.com/ManojTella/rl-cartpole/assets/94883876/71d5cf8a-aa4b-414a-a805-10c24c19295a)
+![image](https://github.com/Pallavi-Raveendranadreddy/rl-cartpole/assets/94294872/fc90040e-9718-41b7-966e-842678c41b6b)
 
 
 ## RESULT:
